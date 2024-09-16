@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently on SDE Pathway
-- 🌱 I’m interested in further learning in leeanriung Java, C#, Python
+- 🌱 I’m interested in further learning in leeanriung Java, C++, Python
 
 
