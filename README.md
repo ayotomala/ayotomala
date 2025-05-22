@@ -1,11 +1,6 @@
-## Hi there 👋
+Hello there 👋
 
-
-**aytomiwa/aytomiwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently on SDE Pathway
-- 🌱 I’m interested in further learning Java, C++, Python
+- 🔭 I’m currently on an SDE Pathway
+- 🌱 I’m learning Java and Typescript and interested in mobile app development
 
 
